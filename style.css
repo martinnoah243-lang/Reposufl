@@ -725,24 +725,23 @@ margin-left: 20px;
         margin-right: 10px;
       }
   
-      /* Responsividade */
+
       @media (max-width: 600px) {
         .footer {
           padding: 30px 10px;
         }
-  
+
         .footer h3 {
           font-size: 1.5rem;
         }
-  
+
         .social-icons a {
-          font-size: 1.5rem;
+          font-size: 3rem;
         }
-  
+
         .support-btn {
           padding: 12px 20px;
           font-size: 1rem;
         }
       }
-
       
